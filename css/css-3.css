@@ -1,0 +1,29 @@
+body {
+  height: 100%;
+  width: 1000px;
+}
+
+.container {
+  position: relative;
+  left: calc(50vw - 500px);
+  
+  height: 100%;
+  width: 100%;
+
+
+
+  background-image: linear-gradient(to top left, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+}
+
+.title {
+  height: 25%;
+  color: aliceblue;
+  
+  text-align: center;
+  text-shadow: 0 10px 2px black;
+
+  font-size: 92px;
+  letter-spacing: 2.4px;
+}
+
+
